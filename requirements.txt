@@ -1,6 +1,4 @@
-docx
-haystack
-pdfplumber
+PyPDF2
 openai
-python-docx
-farm-haystack[all]
+langchain
+os
